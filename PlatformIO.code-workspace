@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Button_Mapping_to_GPIOs",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
