@@ -9,3 +9,8 @@ Function pointers for modular design.
 Separation of logic from behavior.
 
 Scalable and clean embedded firmware.
+
+Here is the picture of all the connections.
+
+![WhatsApp Image 2025-07-30 at 00 10 49_d30d814e](https://github.com/user-attachments/assets/164c10b8-abd4-41b3-9b64-3e616a7289b7)
+
